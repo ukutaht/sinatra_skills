@@ -66,6 +66,14 @@ form.quirks {
   text-align: center;
 }
 
+.user-table li {
+  list-style-type: none;
+}
+
+.user-table tr {
+  border-bottom: 1px dotted black;
+}
+
 .label {
   font-weight: bold;
   float: left;
